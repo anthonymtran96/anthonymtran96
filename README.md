@@ -1,9 +1,16 @@
-[profile-README.md](https://github.com/user-attachments/files/28930563/profile-README.md)
+[profile-README (1).md](https://github.com/user-attachments/files/28930622/profile-README.1.md)
 # Hi, I'm Anthony 👋
 
 **Business Analyst** with 3+ years of experience delivering enterprise solutions (Infosys, NEC Corporation), now focused on sharpening my data analytics skills in SQL, Power BI, and Excel.
 
 I'm a **Certified Scrum Master (CSM)** and **Certified Scrum Product Owner (CSPO)** who enjoys turning messy data and unclear requirements into clear, actionable decisions.
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-FF6F00?style=for-the-badge&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 ---
 
