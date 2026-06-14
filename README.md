@@ -1,4 +1,3 @@
-[profile-README (1).md](https://github.com/user-attachments/files/28930622/profile-README.1.md)
 # Hi, I'm Anthony 👋
 
 **Business Analyst** with 3+ years of experience delivering enterprise solutions (Infosys, NEC Corporation), now focused on sharpening my data analytics skills in SQL, Power BI, and Excel.
