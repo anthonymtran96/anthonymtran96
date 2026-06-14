@@ -17,7 +17,9 @@ Other: Jira, requirements gathering, stakeholder communication, dashboarding
 
 
 SQL Data Quality Audit — A repeatable data quality audit process: duplicate detection, null checks, validation rules, and a severity-tagged findings report.
+
 Retail Sales Performance Dashboard — End-to-end analytics workflow from SQL data prep to an interactive sales/profitability dashboard, surfacing a hidden margin problem in a high-revenue category.
+
 HR / Workforce Analytics Tracker — Headcount, attrition, and tenure analysis inspired by enterprise employee-data work.
 
 
